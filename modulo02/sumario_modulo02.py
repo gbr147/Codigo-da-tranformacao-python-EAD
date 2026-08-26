@@ -10,5 +10,5 @@ a idade de uma pessoa em “Criança”, “Adolescente”, “Adulto” ou “I
 
 Desafio Extra: Crie um menu interativo de calculadora! 
 Use um loop while para que o usuário possa escolher entre Soma, Subtração e Sair, 
-repetindo a operação até que ele decida para.
+repetindo a operação até que ele decida parar.
 """

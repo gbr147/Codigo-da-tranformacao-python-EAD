@@ -56,4 +56,4 @@ Você precisará apenas do **Python 3** instalado em sua máquina.
 ---
 
 ## 👤 Autor
-* **Gabriel Soares** - [Seu GitHub](https://gbr147). 
+* **Gabriel Soares** - [Meu GitHub](https://gbr147). 

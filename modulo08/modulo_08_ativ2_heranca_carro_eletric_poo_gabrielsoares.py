@@ -1,5 +1,5 @@
 # Atividade 2: Implemente herança com CarroEletrico
-from modulo08.ativ01_crie_carro_poo_gabriesoares import Carro # Para fins práticos, assumimos que Carro está definido/importado
+from modulo08.modulo_08_ativ1_crie_carro_poo_gabriesoares import Carro # Para fins práticos, assumimos que Carro está definido/importado
 
 class CarroEletrico(Carro):
     """

@@ -1,2 +1,0 @@
-'''criar portal de noticias'''
-
